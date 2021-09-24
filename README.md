@@ -1,5 +1,5 @@
 <h1 align="center">
-UsersManagementAPI - Desafio 04 - Introdução ao SOLID Concluido
+UsersManagementAPI - Desafio 04 concluído - Introdução ao SOLID
 </h1>
 
 ## 💫 Sobre o desafio
